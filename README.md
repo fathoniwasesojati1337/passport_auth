@@ -18,5 +18,9 @@ This program is to redirect auth login with middleware passport. you can login w
 2. `git clone https://github.com/fathoniwasesojatiTelkom/passport_auth.git`
 3. `.env set you port what you want, i'm using port number 100 Default`
 4. `.env set your SECRET CLIENT ID`
-5. `npm run dev`
+5. `.env set your database and name database`
+6. `npm run dev`
 
+### Screenshot :
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/passport_auth/blob/master/images/passport.png)
