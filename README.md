@@ -10,7 +10,7 @@ This program is to redirect auth login with middleware passport. you can login w
 - [x] Good Structure Code
 - [x] Login Auth Passport Local
 - [x] Login Auth Passport Oauth2 Google
-- [x] Store MongoDB
+- [x] Store data with MongoDB
 
 ### How to install :
 
