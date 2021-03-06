@@ -20,7 +20,3 @@ This program is to redirect auth login with middleware passport. you can login w
 4. `.env set your SECRET CLIENT ID`
 5. `.env set your database and name database`
 6. `npm run dev`
-
-### Screenshot :
-
-![alt text](https://github.com/fathoniwasesojatiTelkom/passport_auth/blob/master/images/passport.png)
